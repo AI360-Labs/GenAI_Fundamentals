@@ -1,0 +1,22 @@
+{
+  "invoice_id": "2063",
+  "invoice_date": "1996-01-23",
+  "due_date": "",
+  "supplier_name": "INLAND PRESS",
+  "supplier_address": "BIN NO. 53136, MILWAUKEE, WISCONSIN 53288",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS USA",
+  "receiver_address": "USA FINANCING DEPT 15TH FLOOR, 120 PARK AVENUE, NEW YORK, NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "ADD'L CHARGES FOR CUSTOMER ALTERATIONS AS FOLLOWS: 48 PAGE RESTAURANT PG.614-16,18-22,25,26,32,36,40,42-44,46-48 52 PAGE HOTEL PG. 2-5,10,14,17-21,24-26 30 40 PAGES",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 3040.0
+    }
+  ],
+  "total_amount": 3040.0,
+  "currency": "USD",
+  "payment_terms": 30
+}

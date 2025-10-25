@@ -1,0 +1,22 @@
+{
+  "invoice_id": "332676",
+  "invoice_date": "1990-06-22",
+  "due_date": "",
+  "supplier_name": "LANDOR ASSOCIATES",
+  "supplier_address": "",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS USA",
+  "receiver_address": "120 PARK AVENUE, NEW YORK NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "PROFESSIONAL SERVICES RENDERED IN CONNECTION WITH DESIGN DEVELOPMENT FOR: BRAND: 1281 BENSON & HEDGES DE-NIC 100'S REGULAR AND MENTHOL FLIP-TOP BOX CARTON PHASE: 26",
+      "quantity": null,
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": 30
+}

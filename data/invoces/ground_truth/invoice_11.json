@@ -1,0 +1,28 @@
+{
+  "invoice_id": "44304",
+  "invoice_date": "1995-04-07",
+  "due_date": "",
+  "supplier_name": "AlSiMag Technical Ceramics, Inc.",
+  "supplier_address": "P.O. Box 651206, CHARLOTTE, NC 28265-1206",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS U.S.A.",
+  "receiver_address": "120 PARK AVENUE, NEW YORK, NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "END PLUG NRE AND ENGINEERING ORDER DWG: D-BASE3",
+      "quantity": 1.0,
+      "unit_price": 12000.0,
+      "amount": 12000.0
+    },
+    {
+      "description": "D-BAS3",
+      "quantity": 20.0,
+      "unit_price": 6.0,
+      "amount": 120.0
+    }
+  ],
+  "total_amount": 12120.0,
+  "currency": "USD",
+  "payment_terms": 30
+}

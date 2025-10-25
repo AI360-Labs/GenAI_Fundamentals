@@ -1,0 +1,15 @@
+{
+  "invoice_id": "",
+  "invoice_date": "",
+  "due_date": "",
+  "supplier_name": "UNION CARBIDE CORPORATION, NUCLEAR DIVISION",
+  "supplier_address": "P.O. BOX P, OAK RIDGE, TENNESSEE 37830",
+  "supplier_tax_id": "",
+  "receiver_name": "THE COUNCIL FOR TOBACCO RESEARCH USA, INC.",
+  "receiver_address": "ACCOUNTS PAYABLE, 110 EAST 59TH STREET",
+  "receiver_tax_id": "",
+  "line_items": [],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": null
+}

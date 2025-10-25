@@ -1,0 +1,22 @@
+{
+  "invoice_id": "010951",
+  "invoice_date": "1993-05-27",
+  "due_date": "",
+  "supplier_name": "THE ROPER ORGANIZATION INC.",
+  "supplier_address": "205 EAST 42ND STREET, NEW YORK, N.Y. 10017",
+  "supplier_tax_id": "",
+  "receiver_name": "Philip Morris Companies, Inc.",
+  "receiver_address": "120 Park Avenue, New York, NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "R-372-205 MONTHLY TREND DATA #93-2",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 2500.0
+    }
+  ],
+  "total_amount": 2500.0,
+  "currency": "USD",
+  "payment_terms": 30
+}

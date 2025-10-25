@@ -1,0 +1,22 @@
+{
+  "invoice_id": "CTR-0020-21",
+  "invoice_date": "1976-01-14",
+  "due_date": "",
+  "supplier_name": "Microbiological Associates, A DIVISION OF hittaker",
+  "supplier_address": "4733 BETHESDA AVENUE, BETHESDA, MARYLAND 20014",
+  "supplier_tax_id": "",
+  "receiver_name": "The Council for Tobacco Research, USA, Inc.",
+  "receiver_address": "110 East 59th Street, New York, New York 10022",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "Monthly billing in accordance with contract dated 4/9/75, PERIOD: 12/1/75 thru 12/31/75",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 1666.0
+    }
+  ],
+  "total_amount": 1666.0,
+  "currency": "USD",
+  "payment_terms": 30
+}

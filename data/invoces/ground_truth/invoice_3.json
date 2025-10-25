@@ -1,0 +1,28 @@
+{
+  "invoice_id": "CTR-14-2222-29",
+  "invoice_date": "1975-07-23",
+  "due_date": "",
+  "supplier_name": "Microbiological Associates, A DIVISION OF hittaker",
+  "supplier_address": "4733 BETHESDA AVENUE, BETHESDA, MARYLAND 20014",
+  "supplier_tax_id": "",
+  "receiver_name": "The Council for Tobacco Research, USA, Inc.",
+  "receiver_address": "110 East 59th Street, New York, New York 10022",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "Reimburseable costs for period June 14, 1975 thru June 30, 1975",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 1676.82
+    },
+    {
+      "description": "Fixed Fee",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 2548.0
+    }
+  ],
+  "total_amount": 4224.82,
+  "currency": "USD",
+  "payment_terms": 30
+}

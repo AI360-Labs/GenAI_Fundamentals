@@ -1,0 +1,34 @@
+{
+  "invoice_id": "99999999",
+  "invoice_date": "",
+  "due_date": "",
+  "supplier_name": "PHILIP MORRIS",
+  "supplier_address": "",
+  "supplier_tax_id": "",
+  "receiver_name": "Philip Morris Valued Customer",
+  "receiver_address": "999 Ninety Ninth Street, Anywhere, USA 99999",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "CAMB FF 100s B8G2F",
+      "quantity": 6000.0,
+      "unit_price": 99.2,
+      "amount": 595.2
+    },
+    {
+      "description": "LESS COMP CIGTS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": -119.04
+    },
+    {
+      "description": "CAMB LTS 100s BOX B8G2F",
+      "quantity": 6000.0,
+      "unit_price": 99.2,
+      "amount": 595.2
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": null
+}

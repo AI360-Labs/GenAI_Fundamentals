@@ -1,0 +1,22 @@
+{
+  "invoice_id": "030455",
+  "invoice_date": "1990-10-26",
+  "due_date": "",
+  "supplier_name": "Kubin-Nicholson Corporation",
+  "supplier_address": "P.O. Box 18674, 5880 North 60th Street, Milwaukee, WI 53218",
+  "supplier_tax_id": "",
+  "receiver_name": "AMERICAN TOBACCO CO",
+  "receiver_address": "GENERAL ACCOUNTING, P.O. BOX 1100, CHESTER, VA 23831",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "AMERICAN (\"FOXY\") LIGHTS WARNING #13-B 14' X 48' BULLETIN RERUN",
+      "quantity": 170.0,
+      "unit_price": 142.45,
+      "amount": 24216.5
+    }
+  ],
+  "total_amount": 24216.5,
+  "currency": "USD",
+  "payment_terms": 30
+}

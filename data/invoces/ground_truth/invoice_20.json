@@ -1,0 +1,15 @@
+{
+  "invoice_id": "N82512",
+  "invoice_date": "1993-06-30",
+  "due_date": "",
+  "supplier_name": "STRUCTURAL DISPLAY COMPANY, INC",
+  "supplier_address": "12-12 33RD AVENUE, LONG ISLAND CITY, NY 11106",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS U.S.A.",
+  "receiver_address": "120 PARK AVENUE, NEW YORK, NY 20017",
+  "receiver_tax_id": "",
+  "line_items": [],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": null
+}

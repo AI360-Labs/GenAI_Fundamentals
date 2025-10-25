@@ -1,0 +1,34 @@
+{
+  "invoice_id": "230",
+  "invoice_date": "2000-03-30",
+  "due_date": "",
+  "supplier_name": "HOMESTEAD MIAMI SPEEDWAY",
+  "supplier_address": "ONE SPEEDWAY BLVD., HOMESTEAD, FLORIDA 33035",
+  "supplier_tax_id": "65-0770539",
+  "receiver_name": "PHILIP MORRIS, USA",
+  "receiver_address": "120 PARK AVE, NEW YORK, NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "FELIPE CUEVAS PHOTOGRAPHY DATED 3/22/00",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 400.0
+    },
+    {
+      "description": "THE FORGE CKRQ DATED 3/21/00",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 13642.0
+    },
+    {
+      "description": "EDWARD TILLOTSON CKRQ DATED 3/21/00",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 700.0
+    }
+  ],
+  "total_amount": 14742.0,
+  "currency": "USD",
+  "payment_terms": null
+}

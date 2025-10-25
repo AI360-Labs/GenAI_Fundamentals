@@ -1,0 +1,22 @@
+{
+  "invoice_id": "329859",
+  "invoice_date": "1989-08-28",
+  "due_date": "",
+  "supplier_name": "LANDOR ASSOCIATES",
+  "supplier_address": "",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS USA",
+  "receiver_address": "120 PARK AVENUE, NEW YORK NY US 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "PROFESSIONAL SERVICES RENDERED IN CONNECTION WITH DESIGN DEVELOPMENT FOR: BRAND: 1610 VIRGINIA SLIMS LIGHTS LIGHTS FLIP-TOP BOX PHASE: 13",
+      "quantity": null,
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": 30
+}

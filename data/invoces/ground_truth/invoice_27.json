@@ -1,0 +1,64 @@
+{
+  "invoice_id": "071628",
+  "invoice_date": "1983-05-13",
+  "due_date": "",
+  "supplier_name": "NATIONAL DATA CORPORATION",
+  "supplier_address": "P.O. BOX 101865, ATLANTA, GA. 30392",
+  "supplier_tax_id": "",
+  "receiver_name": "LOEWS CORPORATION",
+  "receiver_address": "1350 AVENUE OF THE AMERICAS, NEW YORK, NY 10017",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "C2003 ORDERS",
+      "quantity": 458.0,
+      "unit_price": 1.15,
+      "amount": 526.7
+    },
+    {
+      "description": "C2003 UNDER AGE CALLERS",
+      "quantity": 77.0,
+      "unit_price": 0.75,
+      "amount": 57.75
+    },
+    {
+      "description": "C2004 ORDERS",
+      "quantity": 3171.0,
+      "unit_price": 1.15,
+      "amount": 3646.65
+    },
+    {
+      "description": "C2004 UNDER AGE CALLERS",
+      "quantity": 116.0,
+      "unit_price": 0.75,
+      "amount": 87.0
+    },
+    {
+      "description": "2005 ORDERS",
+      "quantity": 14373.0,
+      "unit_price": 1.15,
+      "amount": 16528.95
+    },
+    {
+      "description": "2005 UNDER AGE CALLERS",
+      "quantity": 363.0,
+      "unit_price": 0.75,
+      "amount": 272.25
+    },
+    {
+      "description": "2006 ORDERS",
+      "quantity": 21001.0,
+      "unit_price": 1.15,
+      "amount": 24151.15
+    },
+    {
+      "description": "2006 UNDER AGE CALLERS",
+      "quantity": 285.0,
+      "unit_price": 0.75,
+      "amount": 213.75
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": null
+}

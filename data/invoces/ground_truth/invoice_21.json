@@ -1,0 +1,46 @@
+{
+  "invoice_id": "4673",
+  "invoice_date": "2000-11-13",
+  "due_date": "2000-12-13",
+  "supplier_name": "DJM Post",
+  "supplier_address": "4 E. 46th Street, New York, NY 10017",
+  "supplier_tax_id": "",
+  "receiver_name": "GCI",
+  "receiver_address": "92 GRANDVIEW AVENUE, GREAT NECK, NY 11020",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "1\" dub of \"EACH\" spot- up to 60 sec Spot ID: ZGCI 0109 CC Title: \"BROTHERS CC",
+      "quantity": 18.0,
+      "unit_price": 14.5,
+      "amount": 261.0
+    },
+    {
+      "description": "Beta SP OF EACH:: Spot ID: ZGCI 0109 CC Title: \"BROTHERS\" CC",
+      "quantity": 4.0,
+      "unit_price": 60.0,
+      "amount": 240.0
+    },
+    {
+      "description": "3/4\" 10 min cs OF EACH Spot ID: ZGCI 0109 CC Title: \"BROTHERS\" CC",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "amount": 40.0
+    },
+    {
+      "description": "MESSENGER- 3 messenger midtown",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 20.0
+    },
+    {
+      "description": "FREIGHT-2 2 lb domestic freight",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 60.0
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": 30
+}

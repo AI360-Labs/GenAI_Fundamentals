@@ -1,0 +1,22 @@
+{
+  "invoice_id": "31T 2552-14B",
+  "invoice_date": "1984-03-08",
+  "due_date": "",
+  "supplier_name": "RESEARCH TRIANGLE INSTITUTE",
+  "supplier_address": "POST OFFICE BOX 12194, RESEARCH TRIANGLE PARK, NORTH CAROLINA 27709",
+  "supplier_tax_id": "",
+  "receiver_name": "Lorillard Research Center",
+  "receiver_address": "Post Office Box 21688, Greensboro, N. C. 27420",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "Carbon-14 Syntheses Other Direct Costs, Period: February 1, 1984 to February 29, 1984",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 1489.88
+    }
+  ],
+  "total_amount": 1489.88,
+  "currency": "USD",
+  "payment_terms": null
+}

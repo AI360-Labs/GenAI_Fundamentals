@@ -1,0 +1,34 @@
+{
+  "invoice_id": "07035",
+  "invoice_date": "1996-03-29",
+  "due_date": "",
+  "supplier_name": "SI INFORMATION SYSTEMS",
+  "supplier_address": "8939 J STREET OMAHA, NE 68127",
+  "supplier_tax_id": "",
+  "receiver_name": "D.L. BLAIR COMPANY",
+  "receiver_address": "1548 FRONT STREET, BLAIR, NE 68008",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "16MM X 215 FILM PROCESSED PROCESSING 215\"",
+      "quantity": 22.0,
+      "unit_price": 5.25,
+      "amount": 115.5
+    },
+    {
+      "description": "16MM ACID FREE STORAGE BOXES",
+      "quantity": 22.0,
+      "unit_price": 0.15,
+      "amount": 3.3
+    },
+    {
+      "description": "16MM X 215' FILM SILVER DUPLICATED SILVER DUPE 215'",
+      "quantity": 44.0,
+      "unit_price": 16.0,
+      "amount": 704.0
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": 20
+}

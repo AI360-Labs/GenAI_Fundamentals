@@ -1,0 +1,64 @@
+{
+  "invoice_id": "5045B",
+  "invoice_date": "1999-09-22",
+  "due_date": "1999-11-30",
+  "supplier_name": "CALIFORNIA",
+  "supplier_address": "4051 Glencoe, Suite 7 Marina Del Rey, CA 90292",
+  "supplier_tax_id": "",
+  "receiver_name": "PHILIP MORRIS USA",
+  "receiver_address": "Marlboro Racing, 120 Park Ave, New York, NY 10017-5592",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "EXECUTIVE RESTROOMS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 3900.0
+    },
+    {
+      "description": "ENTERTAINMENT DISC JOCKEY",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 6500.0
+    },
+    {
+      "description": "RENTALS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 3431.0
+    },
+    {
+      "description": "SECURITY GUARDS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 34063.0
+    },
+    {
+      "description": "VALET PARKING",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 1290.0
+    },
+    {
+      "description": "TAROT CARD READERS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 950.0
+    },
+    {
+      "description": "SIGNAGE",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 1300.0
+    },
+    {
+      "description": "NEON SIGNS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 880.0
+    }
+  ],
+  "total_amount": 52801.13,
+  "currency": "USD",
+  "payment_terms": null
+}

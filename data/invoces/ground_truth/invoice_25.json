@@ -1,0 +1,34 @@
+{
+  "invoice_id": "051388",
+  "invoice_date": "2000-01-28",
+  "due_date": "",
+  "supplier_name": "MASTER EAGLE GRAPHIC SERVICES",
+  "supplier_address": "40 West 25th Street, New York, NY 10010",
+  "supplier_tax_id": "",
+  "receiver_name": "BOZELL INC",
+  "receiver_address": "40 WEST 23RD STREET, NEW YORK, NY 10010",
+  "receiver_tax_id": "",
+  "line_items": [
+    {
+      "description": "LORRILARD \"TOBACCO IS WHACKO...\" DC PU 4C FILE IN SYSTEM AND RESIZE / REASSEMBLE PE LASER SET WEBSITE AT BOTTOM AND DIT LINE AND O NEW 4C FILM",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 360.0
+    },
+    {
+      "description": "4C OFFSET FILM WATERPROOF",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 260.0
+    },
+    {
+      "description": "MESS TO MARVEL COMICS",
+      "quantity": null,
+      "unit_price": null,
+      "amount": 19.0
+    }
+  ],
+  "total_amount": null,
+  "currency": "USD",
+  "payment_terms": 30
+}

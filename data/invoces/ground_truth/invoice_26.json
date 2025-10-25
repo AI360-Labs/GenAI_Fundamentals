@@ -1,0 +1,15 @@
+{
+  "invoice_id": "7120002350",
+  "invoice_date": "1987-04-30",
+  "due_date": "",
+  "supplier_name": "Los Angeles Times",
+  "supplier_address": "TIMES MIRROR SQUARE/LOS ANGELES, CA, 90053",
+  "supplier_tax_id": "",
+  "receiver_name": "LORILLARD MEDIA SERVICES",
+  "receiver_address": "666 FIFTH AVENUE 12TH FLOOR, NEW YORK, NY 10103",
+  "receiver_tax_id": "",
+  "line_items": [],
+  "total_amount": 2319.63,
+  "currency": "USD",
+  "payment_terms": null
+}
